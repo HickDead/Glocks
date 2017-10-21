@@ -23,4 +23,6 @@ defaultproperties
 	GunHitPower=10
 
 	WeaponDef=class'KFWeapDef_Glock'
+
+	ModifierPerkList(0)=class'KFPerk_Gunslinger'
 }
