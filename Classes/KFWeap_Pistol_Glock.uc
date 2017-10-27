@@ -45,8 +45,8 @@ defaultproperties
 	bReloadFromMagazine=true
 
 	// Recoil
-	maxRecoilPitch=210
-	minRecoilPitch=70
+	maxRecoilPitch=190	// 210
+	minRecoilPitch=100	// 70
 	maxRecoilYaw=90
 	minRecoilYaw=-150
 	RecoilRate=0.07
