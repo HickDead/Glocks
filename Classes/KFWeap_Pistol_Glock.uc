@@ -45,8 +45,8 @@ defaultproperties
 	bReloadFromMagazine=true
 
 	// Recoil
-	maxRecoilPitch=190	// 210
-	minRecoilPitch=100	// 70
+	maxRecoilPitch=150
+	minRecoilPitch=70
 	maxRecoilYaw=90
 	minRecoilYaw=-150
 	RecoilRate=0.07
@@ -77,7 +77,7 @@ defaultproperties
 	WeaponFireTypes(ALTFIRE_FIREMODE)=EWFT_InstantHit
 	WeaponProjectiles(ALTFIRE_FIREMODE)=class'KFProj_Bullet_PistolGlock'
 	FireInterval(ALTFIRE_FIREMODE)=+0.05
-	InstantHitDamage(ALTFIRE_FIREMODE)=30.0
+	InstantHitDamage(ALTFIRE_FIREMODE)=15.0
 	InstantHitDamageTypes(ALTFIRE_FIREMODE)=class'KFDT_Ballistic_Glock'
 	Spread(ALTFIRE_FIREMODE)=0.016
 
